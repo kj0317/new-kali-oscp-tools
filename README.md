@@ -3,8 +3,8 @@ Simple script to install AutoRecon and pip3 on a newly spun up OSCP Kali image. 
 
 It won't contain every tool, but this is a good baseline to get started.
 
-INSTALLATION:
-git clone the repo
-chmod +x new-kali-oscp-tools.sh
+INSTALLATION:  
+git clone the repo  
+chmod +x new-kali-oscp-tools.sh  
 ./new-kali-oscp-tools.sh
 
