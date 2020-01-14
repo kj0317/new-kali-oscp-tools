@@ -31,5 +31,5 @@ echo "Downloading JAWS..."
 git clone https://github.com/411Hall/JAWS.git
 echo "Done."
 echo "Done...cleaning up."
-rm -r linux-exploit-suggester,LinEnum,unix-privesc-check
+rm -r linux-pe-scripts/{linux-exploit-suggester,LinEnum,unix-privesc-check}
 echo "Verify all your tools are installed and work properly. 
