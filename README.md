@@ -9,3 +9,12 @@ INSTALLATION:
 3. chmod +x new-kali-oscp-tools.sh  
 4. ./new-kali-oscp-tools.sh
 
+CURRENT LIST OF TOOLS INSTALLED:
+- Tib3rius's AutoRecon: https://github.com/Tib3rius/AutoRecon.git
+- Mzet's Linux Exploit Suggester: https://github.com/mzet-/linux-exploit-suggester.git
+- Rebootuser's LinEnum: https://github.com/rebootuser/LinEnum.git
+- Pentestmonkey's Unix Privesc Checks: https://github.com/pentestmonkey/unix-privesc-check.git
+- Worawit's MS17-10: https://github.com/worawit/MS17-010.git
+- 3ndG4me's AutoBlue: https://github.com/3ndG4me/AutoBlue-MS17-010.git
+- Python3 Pip (manual install)
+- 411Hall's JAWS: https://github.com/411Hall/JAWS.git
