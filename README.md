@@ -17,4 +17,4 @@ CURRENT LIST OF TOOLS INSTALLED:
 - Worawit's MS17-10: https://github.com/worawit/MS17-010.git
 - 3ndG4me's AutoBlue: https://github.com/3ndG4me/AutoBlue-MS17-010.git
 - Python3 Pip (manual install)
-- 411Hall's JAWS: https://github.com/411Hall/JAWS.git
+- 411Hall's JAWS (Just Another Windows Enum Script): https://github.com/411Hall/JAWS.git
